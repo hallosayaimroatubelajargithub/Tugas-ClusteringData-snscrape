@@ -1,6 +1,6 @@
 - Nama  : Imroatu Solicah
 - NIM   : 20.01.53.0002
-- Tugas Clustering Data Pada Twitter Dengan Keywords "SHIN TAE YONG"
+- Tugas Clustering Data pada Twitter menggunakan keywords "SHIN TAE YONG"
 
 - Berikut diagram untuk menampilkan "kata-kata apa saja yang sering muncul"
 
